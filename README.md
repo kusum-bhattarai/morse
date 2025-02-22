@@ -1,18 +1,14 @@
-## Getting Started
+## Morse code encoder
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple program which takes user input string and returns the encoded morse code.
 
-## Folder Structure
+## Logic
 
-The workspace contains two folders by default, where:
+- Mapped all the codes and used reverse mapping to decode the text to ensure the correct encoding is done.
+- Didn't add any input option to enter morse code and decode cuz I don't really know morse code that well yet, so just encoding works.
+- this was fun ;)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## To run
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Simply clone the repo and run it in your IDE (capable of running Java).
